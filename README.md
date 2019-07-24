@@ -1,2 +1,2 @@
 # extracting-associate-rule
-Extracting associate rules from vietnam stock data
+## Extracting associate rules from Vietnam stock data
