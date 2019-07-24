@@ -4,3 +4,4 @@
 ### Step 2: Categorizing base on data's distribution
 ### Step 3: Using apriori algorithm to extract rules
 ### Step 4: Investors query to database to get information
+  Query = (stockItem, queryPattern, timeInterval, bodyLen, [minHold, maxHold], minConfidence, optional: investorType)
